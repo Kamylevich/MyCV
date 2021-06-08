@@ -1,0 +1,72 @@
+{
+   "firstName":"Victor",
+   "lastName":"Kamylevich",
+   "position":"Junior QA Engineer",
+   "skills":[
+      "Functional testing",
+      "Non Functional testing",
+      "SDLC, STLC knowledge",
+      "Check List, Test Case, Bug Reporting",
+      "Test design techniques",
+      "HTTP knowledge",
+      "API testing",
+      "Postman, SoupUI",
+      "JSON, XML",
+      "SQL",
+      "Mobile testing (Basic QA Theory)",
+      "Web app testing (Strong QA Theory)",
+      "Regression testing (Basic QA Theory)",
+      "Git",
+      "Performance testing(Basic QA Theory)",
+      "JMeter",
+      "Fiddler",
+      "Java",
+      "HTML, CSS"
+   ],
+   "enlishLevel":"pre intermediate/intermediate",
+   "trainings":{
+      "institution":"The Software Testing Basics UpSkill Lab (EPAM)",
+      "date":"5 October - 26 November",
+      "principal studies":"Functional Testing",
+      "mentor":"Tatyana Loiko",
+      "competences":"Test Planning, Requirements Testing, Checklist & Test Cases, Bug Reports, Results Reporting, Test Design"
+   },
+   "contacts":{
+      "phone":"+375333753560",
+      "email":"victorkamylevich@gmail.com",
+      "linkedin":"linkedin.com/in/victorkamylevich"
+   },
+   "education":
+   [
+      {
+         "institution":"Polotsk State Medical Colledge Paramedic/ Obstetrician",
+         "date":"2011 - 2014"
+      }
+    ],
+   "Experience": [ {
+         "organization":"Minsk Gear Works",
+         "position":"Paramedic",
+         "date":"July 2019 - now",
+         "description":"I've worked for marketing departament: I've created a photostudio and made more that 2000 high-qualified photos, designed some banners and calendars.And yes, I'm working as a paramedic"
+            },
+            {
+         "organization":"Real Estate Agency 'Этажи' (Minsk)",
+         "position":"Real Estate Sales Specialist",
+         "date":"January 2019 - May 2019",
+         "description":"I had got basic knowledge of sales and as a result signed 10 contracts.I helped several familes to find their 'dream house'"
+            },
+            {
+         "organization":"Novopolotsk Central City Hospital",
+         "position":"Paramedic Emergency Medical Services",
+         "date":"August 2016 - December 2018",
+         "description":"I found 'bugs' in the health of more than 1800 people. I saved more than 60 people from death. I managed the emergency medical team."
+            },
+            {
+         "organization":"Verhnedvinsk Central District Hospital",
+         "position":"Paramedic Emergency Medical Services",
+         "date":"August 2014 - August 2016",
+         "description":"I found 'bugs' in the health of more than 1200 people. I saved more than 50 people from death. I was able to learn medical skills quickly (because of working alone). I formed a strong and friendly team"
+          }
+        ]
+
+}
