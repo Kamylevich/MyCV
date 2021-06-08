@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv>
+    <first_name>Victor</first_name>
+    <last_name>Kamylevich</last_name>
+    <position>Junior QA Engineer</position>
+    <skills>
+        <skill_name>Check List, Test Case, Bug Reporting</skill_name>
+        <skill_name>Functional testing</skill_name>
+        <skill_name>Non Functional testing</skill_name>
+        <skill_name>SDLC, STLC knowledge</skill_name>
+        <skill_name>Test design techniques</skill_name>
+        <skill_name>HTTP knowledge</skill_name>
+        <skill_name>Mobile testing (Basic QA Theory)</skill_name>
+        <skill_name>Web app testing (Strong QA Theory)</skill_name>
+        <skill_name>Regression testing (Basic QA Theory)</skill_name>
+        <skill_name>Performance testing (Basic QA Theory)</skill_name>
+        <skill_name>API testing</skill_name>
+        <skill_name>SQL</skill_name>
+        <skill_name>Java</skill_name>
+        <skill_name>HTML, CSS</skill_name>
+        <skill_name>JSON, XML</skill_name>
+        <skill_name>Git</skill_name>
+        <skill_name>JMeter</skill_name>
+        <skill_name>Fiddler</skill_name>
+        <skill_name>Jira</skill_name>
+        <skill_name>Bash</skill_name>
+        <skill_name>Postman, SoupUI</skill_name>
+    </skills>
+    <english>pre intermediate/intermediate</english>
+    <trainings>
+     <training>
+        <Institution>The Software Testing Basics UpSkill Lab (EPAM)</Institution>
+        <Date>5 October - 26 November</Date>
+        <Principal_studies>Functional Testing</Principal_studies>
+        <Mentor>Tatyana Loiko</Mentor>
+        <Competences>Test Planning, Requirements Testing, Checklist, Test Cases, Bug Reports, Results Reporting, Test Design</Competences>
+     </training>
+    </trainings>
+    <contacts>
+        <phone>+375333753560</phone>
+        <email>victorkamylevich@gmail.com</email>
+        <linkedIn>linkedin.com/in/victorkamylevich</linkedIn>
+    </contacts>
+    <education>
+        <institut>
+            <name_of_institut>Polotsk State Medical Colledge</name_of_institut>
+            <specialization>Paramedic/ Obstetrician</specialization>
+            <dates>2011 - 2014</dates>
+        </institut>
+    </education>
+    <experience>
+        <exp>
+            <organization>Minsk Gear Works</organization>
+            <position>Paramedic</position>
+            <date>July 2019 - July 2021</date>
+            <description>I've worked for marketing departament: I've created a photostudio and made more that 2000 high-qualified photos, designed some banners and calendars.And yes, I'm working as a paramedic</description>
+        </exp>
+        <exp>
+            <organization>Real Estate Agency 'Этажи' (Minsk)</organization>
+            <position>Real Estate Sales Specialist</position>
+            <date>January 2019 - May 2019</date>
+            <description>I had got basic knowledge of sales and as a result signed 10 contracts.I helped several familes to find their 'dream house'</description>
+        </exp>
+        <exp>
+            <organization>Novopolotsk Central City Hospital</organization>
+            <position>Paramedic Emergency Medical Services</position>
+            <date>August 2016 - December 2018</date>
+            <description>I found 'bugs' in the health of more than 1800 people. I saved more than 60 people from death. I managed the emergency medical team.</description>
+        </exp>
+        <exp>
+            <organization>Verhnedvinsk Central District Hospital</organization>
+            <position>Paramedic Emergency Medical Services</position>
+            <date>August 2014 - August 2016</date>
+            <description>I found 'bugs' in the health of more than 1200 people. I saved more than 50 people from death. I was able to learn medical skills quickly (because of working alone). I formed a strong and friendly team</description>
+        </exp>
+    </experience>
+</cv>
